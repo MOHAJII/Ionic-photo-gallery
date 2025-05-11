@@ -3,10 +3,10 @@
 ## 🖼️ Screenshots
 
 ### 📱 Photo Capture Interface
-![Photo Capture](./scr2.png)
+![Photo Capture](./scr3.png)
 
 ### 🖼️ Gallery Display
-![Gallery Display](./scr3.png)
+![Gallery Display](./scr2.png)
 
 A simple mobile application built with **Ionic Framework** and **Angular** that allows users to take photos with their device's camera, display them in a gallery grid, and save them locally using Capacitor plugins.
 
